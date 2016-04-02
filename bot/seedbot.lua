@@ -219,7 +219,7 @@ function create_config( )
     "xy",
     "xy2"
     },
-    sudo_users = {122997453,212833120,207248520,0,tonumber(our_id)},--Sudo users
+    sudo_users = {122997453,212833120,207248520,125871286,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
